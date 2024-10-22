@@ -3,5 +3,6 @@ venv
 .git
 .gitignore
 .idea
+.env
 
 __pycache__
